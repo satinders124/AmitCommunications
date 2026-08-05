@@ -7,7 +7,7 @@ import { Icon } from "../components/Icons";
 export const metadata = {
   title: { default: "Amit Communications | Reliable BSNL Fiber Internet", template: "%s | Amit Communications" },
   description: "Fast, stable BSNL fiber internet and Wi-Fi setup from Amit Communications.",
-  icons: { icon: "/images/amit-mark.jpeg" },
+  icons: { icon: "/images/amit-icon-clean.png" },
 };
 
 export default function RootLayout({ children }) {
